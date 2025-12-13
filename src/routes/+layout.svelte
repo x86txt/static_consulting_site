@@ -12,6 +12,7 @@
 				<span class="logo-text">Secunit Security and Mercantile</span>
 			</a>
 			<nav class="nav">
+				<a href="/about" class="nav-link">About</a>
 				<a href="/" class="nav-link">Contact</a>
 				<ThemeToggle />
 			</nav>
